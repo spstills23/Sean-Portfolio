@@ -23,7 +23,7 @@ This provided me with all the data that I needed from 1985 on.
 ![](/images/ncaa_conf_bars.png)
 
 # [Project #3 Movie Recommendation Engine](https://github.com/spstills23/movie_recommendation_engine)
-* imported a movie dataset csv file and used sklearn and machine learning algorithms to recommend movies based off your inputed favorite.
+* Imported a movie dataset csv file and used sklearn and machine learning algorithms to recommend movies based off your inputed favorite.
 * Engineered features to use in the algorithm: "overview", "keywords", "cast", "genres", "director".
 * Combined the features into one string and used CountVectorize to convert the collection of text to token counts
 * Used the Cosine Similarity to create a matrix showing the similar movies based off the features combined
