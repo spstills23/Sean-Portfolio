@@ -6,8 +6,8 @@
 * Built a client facing API using flask 
 
 ![](/images/avg_salary.jpg)
-![](/images/avg_salary_heatmap.jpg)
 ![](/images/avg_salary_wordcloud.jpg)
+![](/images/avg_salary_heatmap.jpg)
 
 # [Project #2 NCAA: Which Mascot Wins More? Python/SQL Class Final](https://github.com/spstills23/Final-Python-Project)
 * For this project I asked the question of: "Does a college basketball team perform better when their mascot is Human or Non-Human in the NCAA basketball Tournament?"
@@ -37,4 +37,6 @@ This provided me with all the data that I needed from 1985 on.
 * I incorporated HTML language to build the infustructure of the website and linked CSS elments to stylize the website.
 * Used Javascript to prompt displays when clicking the logo as well as to display the picture slideshow.
 * Used bootstrap for day 1 and 2 for my photo gallery markup but I left the index page without any outside linked code and wanted to do all of that code myself.
+
+![](/images/website.jpg)
 
