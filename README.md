@@ -5,9 +5,9 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-![](https://github.com/spstills23/Sean_Portfolio/blob/master/images/avg_salary.jpg "Salary by Position")
-![](https://github.com/spstills23/Sean_Portfolio/blob/master/images/avg_salary_heatmap.jpg "Correlation")
-![](https://github.com/spstills23/Sean_Portfolio/blob/master/images/avg_salary_wordcloud.jpg "Keywords")
+![](/images/avg_salary.jpg "Salary by Position")
+![](/images/avg_salary_heatmap.jpg "Correlation")
+![](/images/avg_salary_wordcloud.jpg "Keywords")
 
 # [Project #2 NCAA: Which Mascot Wins More? Python/SQL Class Final](https://github.com/spstills23/Final-Python-Project)
 * For this project I asked the question of: "Does a college basketball team perform better when their mascot is Human or Non-Human in the NCAA basketball Tournament?"
@@ -18,6 +18,6 @@ This provided me with all the data that I needed from 1985 on.
 * Within the report I will build dataframes and SQL databases to map out and show Team Total Wins, Team Wins merged with Mascots Names and finally catagorizing them into human and non-humans.
 * We will count data sets to tally totals, graph with bar graphs and histograms as well as use some statistics and pie charts to see the results of our above questions.
 
-![](https://github.com/spstills23/Sean_Portfolio/blob/master/images/ncaa_wins.png "NCAA Team Wins")
-![](https://github.com/spstills23/Sean_Portfolio/blob/master/images/ncaa_pie.png "Mascots Vs Non Mascots")
-![](https://github.com/spstills23/Sean_Portfolio/blob/master/images/ncaa_conf_bars.png "Conference Breakdown")
+![](/images/ncaa_wins.png "NCAA Team Wins")
+![](/images/ncaa_pie.png "Mascots Vs Non Mascots")
+![](/images/ncaa_conf_bars.png "Conference Breakdown")
