@@ -5,7 +5,7 @@
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
 * Built a client facing API using flask 
 
-# [Project #2 Python/SQL Class Final](https://github.com/spstills23/Final-Python-Project)
+# [Project #2 NCAA: Which Mascot Wins More? Python/SQL Class Final](https://github.com/spstills23/Final-Python-Project)
 * For this project I asked the question of: "Does a college basketball team perform better when their mascot is Human or Non-Human in the NCAA basketball Tournament?"
 * This report will take the results from every NCAA Tournamnet game since the 1985 season and compare whether teams with Non-Human or Human mascots win more.
 * I first came across the data I needed on Kaggle. The link to the original is located here https://www.kaggle.com/ncaa/ncaa-basketball. 
